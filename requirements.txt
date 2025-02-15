@@ -1,0 +1,7 @@
+azure-search-documents==11.6.0b3
+openai
+pdfplumber
+azure-storage-blob
+python-dotenv
+langchain
+tiktoken
